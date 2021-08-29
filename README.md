@@ -5,7 +5,7 @@
 ## Introduction
 
 Module 2 is focused on learning the Backend Framework.</br>
-Project 2 aim is to create and present a full-stack app having users and all CRUD operations.</br>
+Project 2 aim is to create and present a full-stack app having users and all CRUD operations and being deployed to Heroku.</br>
 
 For this we used the following technologies which we had acquired during this Module: 
 - Node.js (especially Express.js),
