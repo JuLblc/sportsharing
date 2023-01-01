@@ -27,7 +27,7 @@ Sportsharing is the web application where people can organize sport events with 
 
 ## Give it a try:
 
-To try Sportsharing, please follow this link: https://sportsharing.herokuapp.com/ or watch the <a href="https://res.cloudinary.com/dwznpgbcd/video/upload/v1629955969/Ironhack-project2:%20Sportsharing/20210825-195657-hvxova07-vfto6xur-s3bs-9duyz1rd-2kaa_QlHVdkAc_iy8jys.mp4">demo</a>
+To try Sportsharing, please follow this link: https://sportsharing.vercel.app or watch the <a href="https://res.cloudinary.com/dwznpgbcd/video/upload/v1629955969/Ironhack-project2:%20Sportsharing/20210825-195657-hvxova07-vfto6xur-s3bs-9duyz1rd-2kaa_QlHVdkAc_iy8jys.mp4">demo</a>
 
 You can use these credentials to log in:
 
